@@ -1,3 +1,3 @@
-Zertifikatu autozifratua-> sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout xxx.key -out xxx.crt
+HTTPS-> https://sites.google.com/site/serviciosiescamp/tema-5-administracion-de-servidores-web/crear-un-sitio-seguro-https
 SCP-> https://geekytheory.com/copiar-archivos-a-traves-de-ssh-con-scp/
 RSYNC-> https://www.linuxito.com/gnu-linux/nivel-basico/1097-sincronizar-directorios-remotos-con-rsync-via-ssh
